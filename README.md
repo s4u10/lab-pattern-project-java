@@ -13,5 +13,5 @@ Allow the creation of a single instance of a class and provide a way to retrieve
 # Strategy
 Simplify the variation of algorithms to solve the same problem.
 
-#Facade
+# Facade
 Provide an interface that reduces the complexity of integrations with subsystems.
